@@ -9,6 +9,15 @@ export const ProjectList = [
     github_url: "https://github.com/amanjuyal06/CodeRush",
     demo_url: "https://coderush-mu.vercel.app/",
   },
+  {
+    img: "/ykte-feature-graphic.png",
+    title: "MausamCast",
+    description:
+      "A weather application that allows users to search for a city and view current and next 6 days weather details,",
+    tech_stack: ["React", "MaterialUI"],
+    github_url: "https://github.com/amanjuyal06/MausamCast",
+    demo_url: "https://the-weather-forecasting-weld.vercel.app/",
+  },
 ];
 
 // --------------------------------------- Skills
