@@ -2,12 +2,12 @@
 export const ProjectList = [
   {
     img: "/ykte-feature-graphic.png",
-    title: "Coding Editor",
+    title: "CodeRush",
     description:
       "A dynamic code editor with robust syntax highlighting, intelligent auto-completion, and real-time error detection across multiple programming languages.",
     tech_stack: ["React", "TailwindCSS"],
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/amanjuyal06/CodeRush",
+    demo_url: "https://coderush-mu.vercel.app/",
   },
 ];
 
@@ -78,10 +78,10 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
     name: "MySQL",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
-    name: "Bootstrap",
-  },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
+  //   name: "Bootstrap",
+  // },
   // {
   //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg",
   //   name: "Material UI",
